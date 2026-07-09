@@ -1,56 +1,92 @@
-# ARC 02 — Katheryne et le secret
+# ARC 02 — KATHERYNE ET LE SECRET
 
-## Résumé
+## Vidéos concernées
 
-Après l'affaire de la valise, Ray croit apercevoir une femme mystérieuse.
-
-Son visage lui semble étrangement familier.
-
-Elle apparaît puis disparaît comme si elle appartenait à une autre époque.
-
-Au cabaret, Ray finit par prononcer un nom.
-
-Katheryne.
-
-À partir de cet instant, tout change.
-
-Kevin poursuit l'enquête pendant que Ray tente de comprendre le lien entre cette femme, la valise et les mystérieux rendez-vous.
-
-Un vieil homme entre alors dans l'histoire.
-
-Il possède un dossier qui semble connaître une partie de la vérité.
-
-L'enquête prend une ampleur inattendue.
-
-Interpol apparaît.
-
-Ray comprend qu'il n'est plus face à une simple succession de coïncidences.
-
-Quelqu'un semble manipuler les événements depuis longtemps.
+36 à 81
 
 ---
 
-## Personnages
+# Résumé
+
+Après l'ouverture de la valise, Ray croit enfin approcher la vérité.
+
+C'est alors qu'apparaît une femme mystérieuse.
+
+Katheryne DeWinter.
+
+Elle semble surgir du passé.
+
+Ray a l'impression de la reconnaître sans pouvoir expliquer pourquoi.
+
+Peu après, une broche ancienne relance toute l'enquête.
+
+Ray et Kevin découvrent que plusieurs personnes semblent connaître cet objet.
+
+Le cabaret, Mamie Blue et les premiers témoignages ouvrent une nouvelle piste.
+
+Katheryne devient progressivement le centre du mystère.
+
+---
+
+# Personnages
 
 - Ray
 - Kevin
 - Katheryne DeWinter
-- Le vieil homme
+- Mamie Blue
+- Mina
 
 ---
 
-## Éléments importants
+# Objets importants
 
-- apparition de Katheryne
-- cabaret
-- photographie
-- dossier
-- Interpol
+- La broche
+- La photographie
+- Les premiers dossiers
+- Les registres
 
 ---
 
-## Fin de l'arc
+# Lieux
 
-Ray comprend que Katheryne est probablement la clé de toute l'affaire.
+- Paris
+- Le cabaret
+- Mamie Blue
+- Les bois
+- Les rues de Paris
 
-Mais il ignore encore pourquoi.
+---
+
+# Ce que Ray sait
+
+Katheryne semble liée à toute l'affaire.
+
+La broche est un indice majeur.
+
+---
+
+# Ce que le spectateur sait
+
+Katheryne cache quelque chose.
+
+Mais personne ne sait encore si elle est victime, témoin... ou manipulatrice.
+
+---
+
+# Questions encore sans réponse
+
+Qui est réellement Katheryne ?
+
+Pourquoi la broche est-elle si importante ?
+
+Qui surveille Ray ?
+
+Pourquoi plusieurs personnes semblent connaître cette affaire depuis longtemps ?
+
+---
+
+# Fin de l'arc
+
+Une nouvelle piste apparaît.
+
+Elle mène vers Saint-Cloud… puis vers Buenos Aires.
