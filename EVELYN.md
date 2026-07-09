@@ -107,7 +107,7 @@ Lors des séances de dédicaces, des lecteurs font la queue pour la rencontrer.
 
 Elle signe toujours ses livres avec élégance et bienveillance.
 
-Personne ne sait que son roman raconte une histoire réelle.
+Personne ne sait encore que son roman est en train de s’écrire dans la réalité.
 
 Ray ignore encore qu'il est le personnage principal de ce livre.
 
