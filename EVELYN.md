@@ -28,7 +28,7 @@ Toujours raffinée.
 
 Apparence :
 
-30 à 35 ans.
+30 ans.
 
 ---
 
