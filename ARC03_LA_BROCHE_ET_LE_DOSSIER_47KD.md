@@ -1,56 +1,91 @@
-# ARC 03 — La broche et le dossier 47-KD
+# ARC 03 — LA BROCHE ET LE DOSSIER 47-KD
 
-## Résumé
+## Vidéos concernées
 
-L'enquête prend une nouvelle direction.
-
-La broche retrouvée relance toutes les questions.
-
-Ray et Kevin découvrent que plusieurs personnes semblent connaître son origine.
-
-Le dossier 47-KD apparaît.
-
-Chaque nouvelle réponse conduit vers une question plus importante.
-
-Katheryne DeWinter semble être au centre de cette affaire.
-
-Pourtant, rien ne prouve encore qu'elle soit réellement la personne recherchée.
+82 à 115
 
 ---
 
-## Période
+# Résumé
 
-Paris, 1947.
+L'enquête change de dimension.
+
+Ray découvre que Katheryne DeWinter pourrait être liée à une autre identité.
+
+Le nom d'Evelyn Hartwood apparaît pour la première fois.
+
+Chaque indice semble conduire vers une vérité plus ancienne que l'enquête elle-même.
+
+Au Bel Ombre, Mina remet discrètement une clé à Ray.
+
+Grâce à elle, il découvre le dossier classé « Affaire 47-KD ».
+
+Le contenu du dossier remet en cause tout ce qu'il croyait savoir.
+
+Un vieil homme de Saint-Cloud raconte avoir connu Katheryne à Buenos Aires.
+
+Ray comprend alors qu'il doit quitter la France.
 
 ---
 
-## Personnages principaux
+# Personnages
 
 - Ray
 - Kevin
-- Katheryne DeWinter
-- Mamie Blue
 - Mina
+- Katheryne DeWinter
+- Evelyn Hartwood (première mention)
+- Le vieil homme
 
 ---
 
-## Objets importants
+# Objets importants
 
 - La broche
 - Le dossier 47-KD
-- Les registres
+- La clé
 - Les photographies
 
 ---
 
-## Lieux principaux
+# Lieux
 
 - Le Bel Ombre
-- Mamie Blue
+- Saint-Cloud
 - Paris
 
 ---
 
-## Fin de l'arc
+# Ce que Ray sait
 
-Ray comprend que toute son enquête semble désormais conduire vers Buenos Aires.
+Le dossier prouve que plusieurs éléments de son enquête sont faux.
+
+Buenos Aires devient sa seule piste.
+
+---
+
+# Ce que le spectateur sait
+
+Katheryne et Evelyn semblent liées.
+
+Mais leur véritable relation reste inconnue.
+
+---
+
+# Questions encore sans réponse
+
+Qui est réellement Evelyn Hartwood ?
+
+Pourquoi le dossier 47-KD a-t-il été caché ?
+
+Pourquoi Mina aide-t-elle Ray ?
+
+Qui protège encore ce secret ?
+
+---
+
+# Fin de l'arc
+
+Ray prépare son départ.
+
+Direction : Buenos Aires.
