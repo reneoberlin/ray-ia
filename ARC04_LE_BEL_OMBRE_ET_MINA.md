@@ -1,52 +1,83 @@
-# ARC 04 — Le Bel Ombre et Mina
+# ARC 04 — LE BEL OMBRE ET MINA
 
-## Résumé
+## Vidéos concernées
 
-L'enquête conduit Ray jusqu'au cabaret Le Bel Ombre.
-
-Une mystérieuse femme nommée Mina lui remet une clé.
-
-Cette clé ouvre une pièce secrète où est caché un ancien dossier.
-
-Le dossier "Affaire 47-KD" bouleverse toutes les certitudes de Ray.
-
-Le corps retrouvé n'est peut-être pas celui de Katheryne DeWinter.
-
-L'enquête prend alors une dimension beaucoup plus vaste.
+116 à 132
 
 ---
 
-## Période
+# Résumé
 
-Paris, 1947.
+Ray quitte définitivement la France.
+
+À bord du paquebot qui le conduit vers Buenos Aires, il relit le dossier 47-KD, examine une nouvelle fois la broche et rassemble tous les indices.
+
+Chaque journée de traversée lui permet de remettre en question ses certitudes.
+
+Le témoignage du vieil homme résonne sans cesse dans son esprit.
+
+Katheryne DeWinter semble avoir vécu en Argentine.
+
+Pourtant, plusieurs incohérences demeurent.
+
+Ray comprend qu'il ne cherche peut-être pas la bonne personne.
+
+Lorsqu'il aperçoit enfin Buenos Aires, il sait que l'enquête entre dans une nouvelle phase.
 
 ---
 
-## Personnages principaux
+# Personnages
 
 - Ray
-- Mina
-- Kevin
-- Katheryne DeWinter
+- Le vieil homme (par son récit)
+- Katheryne DeWinter (à travers les souvenirs)
 
 ---
 
-## Objets importants
+# Objets importants
 
-- La clé
 - Le dossier 47-KD
-- Les archives
+- La broche
+- Les photographies
+- La valise
 
 ---
 
-## Lieux principaux
+# Lieux
 
-- Le Bel Ombre
-- La pièce secrète
-- Les archives
+- Le Havre
+- Le paquebot
+- L'océan Atlantique
+- Buenos Aires
 
 ---
 
-## Fin de l'arc
+# Ce que Ray sait
 
-Une nouvelle piste conduit Ray jusqu'à Saint-Cloud, où un vieil homme affirme avoir connu Katheryne.
+Toutes les pistes convergent vers Buenos Aires.
+
+---
+
+# Ce que le spectateur sait
+
+Le voyage n'est pas un simple déplacement.
+
+C'est le début d'un nouveau chapitre.
+
+---
+
+# Questions encore sans réponse
+
+Pourquoi Katheryne est-elle venue en Argentine ?
+
+Qui attend réellement Ray à Buenos Aires ?
+
+Que cache le Majestic ?
+
+---
+
+# Fin de l'arc
+
+Ray arrive enfin à Buenos Aires.
+
+Une chambre l'attend déjà au Majestic.
