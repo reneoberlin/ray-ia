@@ -1,57 +1,92 @@
-# ARC 05 — Saint-Cloud et Buenos Aires
+# ARC 05 — LE MAJESTIC ET LE SECRET D'EVELYN
 
-## Résumé
+## Vidéos concernées
 
-À Saint-Cloud, un vieil homme révèle à Ray avoir connu Katheryne DeWinter.
-
-Son témoignage bouleverse l'enquête.
-
-Pour la première fois, Buenos Aires est évoquée comme un élément essentiel de la vérité.
-
-Ray comprend qu'il doit quitter la France.
-
-Il prépare sa valise et entreprend la traversée de l'Atlantique.
-
-Durant le voyage, il relit le dossier, réexamine la broche et comprend peu à peu que son enquête repose peut-être sur une erreur depuis le début.
-
-À l'approche de Buenos Aires, une nouvelle certitude s'impose : toutes les pistes semblent converger vers cette ville.
+133 à 140
 
 ---
 
-## Période
-
-1947
-
----
-
-## Personnages principaux
-
-- Ray
-- Le vieil homme
-- Katheryne DeWinter (par le récit)
-
----
-
-## Objets importants
-
-- La broche
-- Le dossier 47-KD
-- Les photographies
-
----
-
-## Lieux principaux
-
-- Saint-Cloud
-- Le Havre
-- Le paquebot
-- L'Atlantique
-- Buenos Aires
-
----
-
-## Fin de l'arc
+# Résumé
 
 Ray arrive enfin à Buenos Aires.
 
-Le Majestic l'attend.
+Au Majestic, une clé l'attend alors qu'il n'a réservé aucune chambre.
+
+À l'intérieur, Kevin est déjà présent.
+
+Leur conversation reprend exactement là où elle s'était arrêtée.
+
+Kevin révèle qu'il suivait lui aussi une autre piste.
+
+Il montre à Ray une enveloppe portant un nom inconnu jusqu'alors :
+
+**Evelyn Hartwood.**
+
+Pendant que Ray tente de comprendre le lien entre ce nom et son enquête, une autre scène se déroule ailleurs.
+
+Dans une grande bibliothèque, Evelyn Hartwood s'assoit devant un carnet.
+
+Après un long moment de silence, elle écrit enfin la première phrase de son roman.
+
+Sans le savoir, Ray vient d'entrer dans une histoire qui semblait déjà écrite avant son arrivée.
+
+---
+
+# Personnages
+
+- Ray
+- Kevin
+- Evelyn Hartwood
+
+---
+
+# Objets importants
+
+- La clé du Majestic
+- L'enveloppe
+- Le carnet
+- La plume
+
+---
+
+# Lieux
+
+- Le Majestic
+- Buenos Aires
+- La bibliothèque d'Evelyn
+
+---
+
+# Ce que Ray sait
+
+Kevin lui cache encore une partie de la vérité.
+
+Le nom d'Evelyn Hartwood devient sa nouvelle piste.
+
+---
+
+# Ce que le spectateur sait
+
+Evelyn connaît peut-être des éléments essentiels de cette histoire.
+
+Mais son véritable rôle reste totalement inconnu.
+
+---
+
+# Questions encore sans réponse
+
+Qui est réellement Evelyn Hartwood ?
+
+Pourquoi Kevin connaissait-il son nom ?
+
+Pourquoi écrivait-elle précisément au moment où Ray arrivait ?
+
+Quel lien unit Evelyn, Katheryne et Buenos Aires ?
+
+---
+
+# Fin de l'arc
+
+Une nouvelle histoire commence.
+
+Et Ray ignore encore qu'il en est déjà l'un des personnages.
