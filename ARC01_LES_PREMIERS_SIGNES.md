@@ -1,53 +1,99 @@
-# ARC 01 — Les premiers signes
+# ARC 01 — LES PREMIERS SIGNES
 
-## Résumé
+## Vidéos concernées
 
-Début officiel de l'histoire de Ray.
-
-Une lettre anonyme entraîne Ray dans une succession de rendez-vous mystérieux à travers Paris.
-
-Chaque nouvelle piste semble avoir été préparée à l'avance.
-
-Kevin rejoint progressivement l'enquête.
-
-Le mystère conduit finalement à une étrange valise qui marque un tournant dans l'histoire.
+1 à 35
 
 ---
 
-## Période
+# Résumé
 
-Paris, 1947.
+Ray reçoit une mystérieuse lettre qui semble lui être personnellement destinée.
 
----
+Sans comprendre pourquoi, il suit une succession d'indices à travers Paris.
 
-## Personnages principaux
+Chaque rendez-vous paraît avoir été organisé longtemps à l'avance.
 
-- Ray
-- Kevin
+Une adresse conduit à un tailleur.
 
----
+Puis une autre.
 
-## Objets importants
+Puis encore une autre.
 
-- Lettre
-- Adresses
-- Costumes
-- Photographie
-- Valise
+Peu à peu, Ray comprend qu'il ne choisit plus son parcours.
 
----
+Quelqu'un semble le guider.
 
-## Lieux principaux
+Kevin rejoint alors l'enquête.
 
-- Paris
-- Tailleur
-- Cafés
-- Rues de Paris
+Ensemble, ils découvrent une photographie, puis une mystérieuse valise.
+
+Lorsqu'ils l'ouvrent, ils comprennent que cette affaire dépasse largement ce qu'ils imaginaient.
 
 ---
 
-## Fin de l'arc
+# Personnages
 
-Ray et Kevin ouvrent la mystérieuse valise.
+• Ray
 
-Ils comprennent que leur enquête ne fait que commencer.
+• Kevin
+
+---
+
+# Objets importants
+
+• Lettre
+
+• Adresses
+
+• Costumes
+
+• Photographie
+
+• Valise
+
+---
+
+# Lieux
+
+• Paris
+
+• Le tailleur
+
+• Les rues
+
+• Les cafés
+
+---
+
+# Ce que Ray sait
+
+Quelqu'un organise chacun de ses déplacements.
+
+---
+
+# Ce que le spectateur sait
+
+Ray ignore encore qui manipule cette enquête.
+
+---
+
+# Questions encore sans réponse
+
+Qui écrit les lettres ?
+
+Pourquoi Ray ?
+
+Pourquoi Kevin arrive-t-il exactement au bon moment ?
+
+Qui prépare ce parcours ?
+
+Que contient réellement la valise ?
+
+---
+
+# Fin de l'arc
+
+La valise est ouverte.
+
+Le danger devient réel.
