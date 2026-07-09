@@ -91,7 +91,29 @@ Bijoux discrets.
 Toujours très chic.
 
 ---
+## Profession
 
+Évelyne Hartwood est une écrivaine reconnue.
+
+Elle a 30 ans.
+
+Elle écrit des romans à suspense où la frontière entre la fiction et la réalité devient floue.
+
+Son dernier livre s'intitule :
+
+**L'Homme qui venait du futur**
+
+Lors des séances de dédicaces, des lecteurs font la queue pour la rencontrer.
+
+Elle signe toujours ses livres avec élégance et bienveillance.
+
+Personne ne sait que son roman raconte une histoire réelle.
+
+Ray ignore encore qu'il est le personnage principal de ce livre.
+
+Évelyne connaît déjà une partie de son destin.
+
+---
 ## Relation avec Ray
 
 Ray ignore encore qui elle est réellement.
