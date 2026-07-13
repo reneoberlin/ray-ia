@@ -114,3 +114,4 @@ Toujours très cinématographique.
 ## Règle absolue
 
 Toutes les IA doivent conserver exactement le même Ray dans tous les épisodes.
+Dernière mise à jour : 13 juillet 2026.
