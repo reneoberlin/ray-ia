@@ -1,3 +1,7 @@
+---
+name: ray-director
+description: Garantit la cohérence narrative, chronologique et artistique de l'univers Ray. À utiliser pour créer, continuer, corriger ou vérifier un épisode, une scène, un dialogue ou un arc narratif du projet Ray-IA.
+---
 # RAY DIRECTOR
 
 Version : 1.0
