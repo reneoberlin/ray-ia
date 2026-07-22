@@ -26,3 +26,13 @@ En cas de contradiction, les fichiers du dépôt font toujours autorité.
 ## Statut
 
 Ce Skill est en cours de développement.
+
+## Responsabilités
+
+Ray Director est responsable de :
+
+- Vérifier la cohérence des épisodes.
+- Respecter les personnages.
+- Respecter la chronologie.
+- Préserver l'ambiance film noir.
+- Signaler toute incohérence avant de proposer une modification.
