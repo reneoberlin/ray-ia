@@ -69,3 +69,15 @@ Ne jamais utiliser :
 ## Objectif
 
 Chaque épisode doit donner l'impression d'appartenir au même univers cinématographique.
+## Cohérence visuelle
+
+Chaque nouvelle image, illustration, vidéo ou prompt doit respecter strictement :
+
+- les fiches des personnages ;
+- CANON.md ;
+- CHRONOLOGIE.md ;
+- le style officiel de Ray.
+
+Aucune IA ne peut modifier le visage, l'âge apparent, la silhouette, les vêtements ou les accessoires officiels d'un personnage sans mise à jour explicite du dépôt.
+
+En cas de contradiction, CANON.md fait toujours autorité.
