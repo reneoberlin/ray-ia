@@ -2,7 +2,7 @@
 
 ## Règle n°1
 
-Toujours consulter README.md avant toute tâche.
+Toujours respecter l'ordre de lecture défini dans SYSTEM.md.
 
 ## Règle n°2
 
@@ -18,14 +18,7 @@ Ne jamais modifier un personnage sans autorisation.
 
 ## Règle n°5
 
-Toujours utiliser les fiches :
-
-- RAY.md
-- KEVIN.md
-- KATHERYNE.md
-- EVELYN.md
-
-avant d'écrire un scénario.
+Toujours consulter les fiches des personnages concernés avant d'écrire un scénario.
 
 ## Règle n°6
 
@@ -49,4 +42,4 @@ Ne jamais contredire les épisodes déjà publiés.
 
 ## Règle n°10
 
-Avant toute nouvelle création, vérifier les fichiers du dépôt GitHub.
+Avant toute nouvelle création, consulter les fichiers de référence afin de garantir la cohérence de l'univers.
