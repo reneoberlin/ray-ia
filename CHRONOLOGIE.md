@@ -45,10 +45,18 @@ Alterner deux types de posts :
 ---
 
 ## Règles de continuité
-
+Chaque nouvel épisode doit :
 - Ne jamais contredire un épisode déjà publié.
 - Toujours garder Ray cohérent.
 - Toujours garder Kevin cohérent.
 - Toujours garder Evelyn cohérente.
 - Toujours respecter l'ambiance film noir années 1940-1950.
 - Ne jamais inventer une nouvelle chronologie sans validation.
+- respecter tous les événements déjà enregistrés ;
+- conserver l'ordre chronologique officiel ;
+- ne jamais modifier un fait déjà établi sans mise à jour explicite de CHRONOLOGIE.md ;
+- rester compatible avec CANON.md et les fiches des personnages.
+
+Avant toute nouvelle création, toujours vérifier la continuité avec les épisodes publiés, CANON.md, CHRONOLOGIE.md et les fiches des personnages.
+
+En cas de contradiction, CHRONOLOGIE.md fait foi.
