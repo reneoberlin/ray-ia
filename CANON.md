@@ -21,16 +21,15 @@ Aucun élément fantastique ou futuriste n'est autorisé.
 # Ray
 
 Ray est le personnage principal.
-
 Il conserve toujours :
-
 - le même visage
 - la même personnalité
 - la même moustache
 - la même coiffure
 - une apparence comprise entre 42 et 45 ans
 - une élégance permanente
-
+- la cicatrice sur la joue gauche
+- la fossette caractéristique
 ---
 
 # Kevin
@@ -64,7 +63,7 @@ Sa présence fait toujours avancer l'intrigue sans jamais casser le réalisme.
 L'univers respecte toujours :
 
 - réalisme
-- élégance
+- élégance#"
 - mystère
 - tension psychologique
 - cinéma noir
@@ -78,7 +77,11 @@ Aucun épisode ne peut modifier un événement déjà inscrit dans CHRONOLOGIE.m
 ---
 
 # Priorité
-
+1. CANON.md
+2. CHRONOLOGIE.md
+3. PERSONNAGES.md
+4. les fichiers des arcs narratifs
+5. les épisodes publiés
 L'ordre de priorité des fichiers est :
 
 1. CANON.md
@@ -96,3 +99,12 @@ L'ordre de priorité des fichiers est :
 # Objectif
 
 Construire progressivement une œuvre cohérente où chaque épisode, chaque image et chaque dialogue appartiennent au même univers.
+---
+
+# Mission
+
+Le but de cet univers est de construire une histoire cohérente où chaque épisode, chaque image et chaque dialogue appartiennent au même univers.
+
+La cohérence est toujours plus importante que la nouveauté.
+
+Toute création doit respecter CANON.md.
