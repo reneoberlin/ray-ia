@@ -11,7 +11,7 @@ Avant toute réponse, consulte obligatoirement :
 3. REGLES.md
 4. UNIVERS.md
 5. STYLE.md
-6. CHRONOLOGIE.md ça
+6. CHRONOLOGIE.md
 7. PERSONNAGES.md
 8. RAY.md
 9. Les fiches des autres personnages concernés.
