@@ -4,7 +4,7 @@
 
 Ce document recense tous les éléments qui doivent rester cohérents d'une scène à l'autre.
 
-Il complète CHRONOLOGIE.md et CANON.md.
+Il complète CANON.md et CHRONOLOGIE.md, sans jamais les contredire.
 
 ---
 
