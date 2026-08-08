@@ -63,7 +63,7 @@ Sa présence fait toujours avancer l'intrigue sans jamais casser le réalisme.
 L'univers respecte toujours :
 
 - réalisme
-- élégance#"
+- élégance
 - mystère
 - tension psychologique
 - cinéma noir
