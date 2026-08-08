@@ -8,17 +8,15 @@ Toutes les IA doivent utiliser ce dépôt comme référence principale.
 
 ## Ordre de lecture
 
-1. README.md
-2. REGLES.md
-3. UNIVERS.md
-4. PERSONNAGES.md
-5. RAY.md
-6. Les fiches des autres personnages
-7. CHRONOLOGIE.md
-8. Les fichiers ARCxx
-
-## Règle absolue
-
-Ne jamais modifier l'identité, le visage, la personnalité ou la chronologie de RAY sans que cela soit explicitement indiqué dans ce dépôt.
-
-En cas de contradiction, les fichiers du dépôt ont toujours priorité.
+1. CANON.md
+2. README.md
+3. REGLES.md
+4. UNIVERS.md
+5. STYLE.md
+6. CHRONOLOGIE.md
+7. PERSONNAGES.md
+8. RAY.md
+9. Les fiches des autres personnages
+10. RAY-CORE.md
+11. Les fichiers ARCxx
+12. Les SKILLS concernés
