@@ -77,22 +77,20 @@ Aucun épisode ne peut modifier un événement déjà inscrit dans CHRONOLOGIE.m
 ---
 
 # Priorité
-1. CANON.md
-2. CHRONOLOGIE.md
-3. PERSONNAGES.md
-4. les fichiers des arcs narratifs
-5. les épisodes publiés
-L'ordre de priorité des fichiers est :
 
 1. CANON.md
 2. SYSTEM.md
 3. README.md
 4. REGLES.md
-5. STYLE.md
-6. CHRONOLOGIE.md
-7. PERSONNAGES.md
-8. Les fichiers des personnages
-9. Les fichiers ARC
+5. UNIVERS.md
+6. STYLE.md
+7. CHRONOLOGIE.md
+8. PERSONNAGES.md
+9. RAY.md et les fiches des personnages
+10. RAY-CORE.md
+11. Les fichiers ARC
+12. Les SKILLS concernés
+13. PROMPTS-GROK.md lorsqu'une demande concerne Grok, une image ou une animation.
 
 ---
 
