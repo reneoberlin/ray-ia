@@ -11,13 +11,13 @@ Avant toute réponse, consulte obligatoirement :
 3. REGLES.md
 4. UNIVERS.md
 5. STYLE.md
-6. CHRONOLOGIE.md
+6. CHRONOLOGIE.md ça
 7. PERSONNAGES.md
 8. RAY.md
 9. Les fiches des autres personnages concernés.
 10. RAY-CORE.md
 11. PROMPTS-GROK.md lorsque la demande concerne Grok, une image ou une animation.
-12. Les SKILLS concernés, notamment ray-continuity-expert et ray-qa.
+12. Les SKILLS concernés, notamment ray-continuity et ray-qa.
 
 ---
 
