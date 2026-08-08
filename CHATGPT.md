@@ -15,6 +15,9 @@ Avant toute réponse, consulte obligatoirement :
 7. PERSONNAGES.md
 8. RAY.md
 9. Les fiches des autres personnages concernés.
+10. RAY-CORE.md
+11. PROMPTS-GROK.md lorsque la demande concerne Grok, une image ou une animation.
+12. Les SKILLS concernés, notamment ray-continuity-expert et ray-qa.
 
 ---
 
@@ -112,7 +115,17 @@ Les vidéos doivent conserver :
 - les mêmes relations
 - la continuité des scènes
 - la cohérence des vêtements
+## Utilisation de Grok
 
+Quand l’utilisateur demande un prompt destiné à Grok :
+
+1. consulter RAY-CORE.md
+2. consulter PROMPTS-GROK.md
+3. consulter les fiches des personnages concernés
+4. vérifier la continuité
+5. produire directement un prompt prêt à copier dans Grok
+
+L’utilisateur ne doit pas avoir à répéter les caractéristiques déjà enregistrées dans le dépôt.
 ---
 
 # Interdictions
